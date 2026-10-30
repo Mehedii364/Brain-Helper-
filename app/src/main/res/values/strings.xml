@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Brain Helper</string>
+    <string name="app_tagline">Think clearly. Live smarter.</string>
+    <string name="assistant_badge">YOUR PERSONAL ASSISTANT</string>
+    <string name="headline_today">Make today count.</string>
+    <string name="bengali_hero_sub">একটি পরিকল্পিত দিন, এক ধাপ করে।</string>
+
+    <string name="tasks_stat_label">Tasks / কাজ</string>
+    <string name="reminders_stat_label">Reminders</string>
+    <string name="ask_brain_helper">Ask Brain Helper</string>
+    <string name="ask_input_placeholder">আজকের কাজগুলো সাজিয়ে দাও…</string>
+    <string name="start_conversation">Start a conversation</string>
+    <string name="quick_actions_title">Quick actions / দ্রুত কাজ</string>
+
+    <!-- Quick actions -->
+    <string name="plan_my_day">Plan my day</string>
+    <string name="plan_my_day_sub">দিনের পরিকল্পনা</string>
+    <string name="smart_alarm">Smart alarm</string>
+    <string name="smart_alarm_sub">অ্যালার্ম ও রিমাইন্ডার</string>
+    <string name="ai_scanner">AI scanner</string>
+    <string name="ai_scanner_sub">স্ক্যান ও বুঝুন</string>
+    <string name="my_memory">My memory</string>
+    <string name="my_memory_sub">নোট ও ব্যক্তিগত তথ্য</string>
+
+    <!-- Daily progress -->
+    <string name="daily_progress">Daily Progress</string>
+    <string name="daily_progress_sub">প্রতিদিনের অগ্রগতি</string>
+    <string name="tasks_completed_ratio">%1$d of %2$d completed</string>
+    <string name="progress_encouragement_good">Outstanding focus! You are making serious progress today.</string>
+    <string name="progress_encouragement_empty">Add a few daily tasks to get your momentum rolling.</string>
+    <string name="progress_encouragement_done">All tasks completed! Enjoy a well-deserved break.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_chat">AI Chat</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_title">Brain Helper AI</string>
+    <string name="chat_subtitle">Personal intelligence online</string>
+    <string name="chat_new_session">New Session</string>
+    <string name="chat_placeholder">Ask anything in English or বাংলা…</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_voice_input">Voice input</string>
+    <string name="chat_listening">Listening…</string>
+    <string name="chat_action_proposal">Suggested Action</string>
+    <string name="chat_action_execute">Execute Action</string>
+    <string name="chat_action_applied">Action applied successfully</string>
+    <string name="chat_offline_state">Running in on-device assistant mode</string>
+    <string name="chat_retry">Retry</string>
+    <string name="chat_copy">Copy message</string>
+    <string name="chat_copied">Copied to clipboard</string>
+    <string name="chat_initial_greeting">Hello! I am your Brain Helper assistant. How can I assist you with your schedule, ideas, or questions today?</string>
+
+    <!-- Voice Assistant -->
+    <string name="voice_title">Voice Assistant</string>
+    <string name="voice_tap_to_speak">Tap orb to speak</string>
+    <string name="voice_listening">Listening to your voice…</string>
+    <string name="voice_processing">Thinking &amp; analyzing…</string>
+    <string name="voice_speaking">Brain Helper speaking…</string>
+    <string name="voice_lang_en">English</string>
+    <string name="voice_lang_bn">বাংলা (Bengali)</string>
+    <string name="voice_permission_rationale">Microphone permission is needed for speech recognition.</string>
+    <string name="voice_grant_permission">Grant Permission</string>
+
+    <!-- Tasks -->
+    <string name="tasks_title">Tasks &amp; Planner</string>
+    <string name="tasks_tab_all">All</string>
+    <string name="tasks_tab_today">Today</string>
+    <string name="tasks_tab_upcoming">Upcoming</string>
+    <string name="tasks_tab_completed">Completed</string>
+    <string name="tasks_add_button">New Task</string>
+    <string name="tasks_empty_title">No tasks found</string>
+    <string name="tasks_empty_desc">Plan your day by adding your high-priority items.</string>
+    <string name="tasks_new_task_dialog">Create Task</string>
+    <string name="task_title_label">Task Title</string>
+    <string name="task_notes_label">Notes &amp; Details</string>
+    <string name="task_priority_label">Priority</string>
+    <string name="task_priority_high">High</string>
+    <string name="task_priority_medium">Medium</string>
+    <string name="task_priority_low">Low</string>
+    <string name="task_due_time">Due Time</string>
+    <string name="task_save">Save Task</string>
+    <string name="task_delete">Delete Task</string>
+
+    <!-- Smart Alarm & Reminders -->
+    <string name="alarms_title">Smart Alarms</string>
+    <string name="alarms_tab_alarms">Alarms</string>
+    <string name="alarms_tab_reminders">Reminders</string>
+    <string name="alarm_add_new">Add Alarm</string>
+    <string name="reminder_add_new">Add Reminder</string>
+    <string name="alarm_challenge_math">Math Puzzle Challenge</string>
+    <string name="alarm_challenge_shake">Shake Challenge</string>
+    <string name="alarm_challenge_gentle">Gentle Wake</string>
+    <string name="alarm_repeat_daily">Every day</string>
+    <string name="alarm_repeat_weekdays">Mon–Fri</string>
+    <string name="alarm_repeat_once">Once</string>
+    <string name="alarm_saved_toast">Alarm scheduled for %1$s</string>
+    <string name="reminder_saved_toast">Reminder set for %1$s</string>
+
+    <!-- Personal Memory -->
+    <string name="memory_title">Personal Memory</string>
+    <string name="memory_search">Search notes and memories…</string>
+    <string name="memory_add_new">New Memory</string>
+    <string name="memory_cat_all">All</string>
+    <string name="memory_cat_ideas">Ideas</string>
+    <string name="memory_cat_personal">Personal</string>
+    <string name="memory_cat_work">Work</string>
+    <string name="memory_cat_health">Health</string>
+    <string name="memory_cat_important">Important</string>
+    <string name="memory_pinned">PINNED</string>
+    <string name="memory_empty">No memories saved yet. Store thoughts, routines, and ideas here.</string>
+
+    <!-- AI Scanner -->
+    <string name="scanner_title">AI Scanner</string>
+    <string name="scanner_subtitle">Capture documents, receipts, and notes</string>
+    <string name="scanner_take_photo">Capture Camera</string>
+    <string name="scanner_pick_photo">Import Image</string>
+    <string name="scanner_ocr_result">Extracted Text</string>
+    <string name="scanner_summarize">AI Summarize</string>
+    <string name="scanner_save_memory">Save to Memory</string>
+    <string name="scanner_permission_needed">Camera permission is required to scan physical documents.</string>
+
+    <!-- Phone Control -->
+    <string name="phone_control_title">Phone Control Center</string>
+    <string name="phone_control_sub">System integrations &amp; hardware status</string>
+    <string name="perm_notifications">Notification Access</string>
+    <string name="perm_alarms">Exact Alarm Scheduling</string>
+    <string name="perm_camera">Camera Permission</string>
+    <string name="perm_audio">Microphone Access</string>
+    <string name="perm_granted">Active</string>
+    <string name="perm_denied">Not Granted</string>
+    <string name="perm_open_settings">Open System Settings</string>
+    <string name="device_battery">Battery Level</string>
+    <string name="device_network">Network Connectivity</string>
+    <string name="quick_shortcuts">Quick Shortcuts</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_lang_title">Language / ভাষা</string>
+    <string name="settings_theme_title">Theme Mode</string>
+    <string name="settings_theme_obsidian">Obsidian Dark (Default)</string>
+    <string name="settings_theme_amoled">AMOLED Pitch Black</string>
+    <string name="settings_ai_title">AI Engine Configuration</string>
+    <string name="settings_ai_model">Gemini 2.5 Flash / OpenRouter</string>
+    <string name="settings_ai_key_hint">Custom API Key (Optional override)</string>
+    <string name="settings_privacy_title">Privacy &amp; Data</string>
+    <string name="settings_clear_chat">Clear Chat History</string>
+    <string name="settings_clear_db">Reset All Local Storage</string>
+    <string name="settings_about_title">About Brain Helper</string>
+    <string name="settings_version">Version 1.0.0 (Obsidian Build)</string>
+    <string name="settings_credits">Designed with Material 3 Obsidian Design Tokens</string>
+
+    <!-- Common -->
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_delete">Delete</string>
+    <string name="notification_title">Brain Helper Notification</string>
+    <string name="notification_channel_name">Brain Helper Reminders</string>
+    <string name="notification_channel_desc">Daily alerts and smart reminder notifications</string>
+</resources>

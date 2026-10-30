@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">ব্রেন হেল্পার</string>
+    <string name="app_tagline">Think clearly. Live smarter.</string>
+    <string name="assistant_badge">আপনার ব্যক্তিগত সহকারী</string>
+    <string name="headline_today">Make today count.</string>
+    <string name="bengali_hero_sub">একটি পরিকল্পিত দিন, এক ধাপ করে।</string>
+
+    <string name="tasks_stat_label">Tasks / কাজ</string>
+    <string name="reminders_stat_label">রিমাইন্ডার</string>
+    <string name="ask_brain_helper">ব্রেন হেল্পারকে জিজ্ঞাসা করুন</string>
+    <string name="ask_input_placeholder">আজকের কাজগুলো সাজিয়ে দাও…</string>
+    <string name="start_conversation">কথোপকথন শুরু করুন</string>
+    <string name="quick_actions_title">Quick actions / দ্রুত কাজ</string>
+
+    <!-- Quick actions -->
+    <string name="plan_my_day">Plan my day</string>
+    <string name="plan_my_day_sub">দিনের পরিকল্পনা</string>
+    <string name="smart_alarm">Smart alarm</string>
+    <string name="smart_alarm_sub">অ্যালার্ম ও রিমাইন্ডার</string>
+    <string name="ai_scanner">AI scanner</string>
+    <string name="ai_scanner_sub">স্ক্যান ও বুঝুন</string>
+    <string name="my_memory">My memory</string>
+    <string name="my_memory_sub">নোট ও ব্যক্তিগত তথ্য</string>
+
+    <!-- Daily progress -->
+    <string name="daily_progress">Daily Progress</string>
+    <string name="daily_progress_sub">প্রতিদিনের অগ্রগতি</string>
+    <string name="tasks_completed_ratio">%2$dটির মধ্যে %1$dটি সম্পন্ন</string>
+    <string name="progress_encouragement_good">দারুণ মনোযোগ! আজ আপনি অসাধারণ অগ্রগতি করছেন।</string>
+    <string name="progress_encouragement_empty">কাজে গতি আনতে আজকের কিছু কাজ যোগ করুন।</string>
+    <string name="progress_encouragement_done">আজকের সব কাজ সম্পন্ন হয়েছে! এখন একটু বিশ্রাম নিন।</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_tasks">কাজ</string>
+    <string name="nav_chat">এআই চ্যাট</string>
+    <string name="nav_memory">মেমোরি</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <!-- Chat Screen -->
+    <string name="chat_title">ব্রেন হেল্পার এআই</string>
+    <string name="chat_subtitle">ব্যক্তিগত সহকারী অনলাইন</string>
+    <string name="chat_new_session">নতুন চ্যাট</string>
+    <string name="chat_placeholder">বাংলা বা ইংরেজিতে যা খুশি জিজ্ঞাসা করুন…</string>
+    <string name="chat_send">পাঠান</string>
+    <string name="chat_voice_input">ভয়েস ইনপুট</string>
+    <string name="chat_listening">শুনছি…</string>
+    <string name="chat_action_proposal">প্রস্তাবিত পদক্ষেপ</string>
+    <string name="chat_action_execute">পদক্ষেপ নিন</string>
+    <string name="chat_action_applied">পদক্ষেপ সফলভাবে প্রয়োগ করা হয়েছে</string>
+    <string name="chat_offline_state">অন-ডিভাইস সহকারী মোডে চলছে</string>
+    <string name="chat_retry">পুনরায় চেষ্টা করুন</string>
+    <string name="chat_copy">মেসেজ কপি করুন</string>
+    <string name="chat_copied">ক্লিপবোর্ডে কপি হয়েছে</string>
+    <string name="chat_initial_greeting">নমস্কার / আসসালামু আলাইকুম! আমি আপনার ব্রেন হেল্পার সহকারী। আজকের রুটিন, পরিকল্পনা বা কোনো প্রশ্নের ব্যাপারে কীভাবে সাহায্য করতে পারি?</string>
+
+    <!-- Voice Assistant -->
+    <string name="voice_title">ভয়েস সহকারী</string>
+    <string name="voice_tap_to_speak">কথা বলতে স্পর্শ করুন</string>
+    <string name="voice_listening">আপনার কণ্ঠস্বর শুনছি…</string>
+    <string name="voice_processing">বিশ্লেষণ ও ভাবছি…</string>
+    <string name="voice_speaking">ব্রেন হেল্পার বলছে…</string>
+    <string name="voice_lang_en">English</string>
+    <string name="voice_lang_bn">বাংলা (Bengali)</string>
+    <string name="voice_permission_rationale">ভয়েস স্বীকৃতির জন্য মাইক্রোফোন অনুমতি প্রয়োজন।</string>
+    <string name="voice_grant_permission">অনুমতি দিন</string>
+
+    <!-- Tasks -->
+    <string name="tasks_title">কাজ ও পরিকল্পনা</string>
+    <string name="tasks_tab_all">সকল</string>
+    <string name="tasks_tab_today">আজ</string>
+    <string name="tasks_tab_upcoming">আসন্ন</string>
+    <string name="tasks_tab_completed">সম্পন্ন</string>
+    <string name="tasks_add_button">নতুন কাজ</string>
+    <string name="tasks_empty_title">কোনো কাজ তালিকাভুক্ত নেই</string>
+    <string name="tasks_empty_desc">আপনার দিনের পরিকল্পনা করতে নতুন কাজ যোগ করুন।</string>
+    <string name="tasks_new_task_dialog">কাজ তৈরি করুন</string>
+    <string name="task_title_label">কাজের শিরোনাম</string>
+    <string name="task_notes_label">বিবরণ ও নোট</string>
+    <string name="task_priority_label">অগ্রাধিকার</string>
+    <string name="task_priority_high">উচ্চ (High)</string>
+    <string name="task_priority_medium">মাঝারি (Medium)</string>
+    <string name="task_priority_low">সাধারণ (Low)</string>
+    <string name="task_due_time">সময়সীমা</string>
+    <string name="task_save">সংরক্ষণ করুন</string>
+    <string name="task_delete">মুছে ফেলুন</string>
+
+    <!-- Smart Alarm & Reminders -->
+    <string name="alarms_title">স্মার্ট অ্যালার্ম</string>
+    <string name="alarms_tab_alarms">অ্যালার্ম</string>
+    <string name="alarms_tab_reminders">রিমাইন্ডার</string>
+    <string name="alarm_add_new">অ্যালার্ম যোগ করুন</string>
+    <string name="reminder_add_new">রিমাইন্ডার যোগ করুন</string>
+    <string name="alarm_challenge_math">গণিত ধাঁধা চ্যালেঞ্জ</string>
+    <string name="alarm_challenge_shake">ঝাঁকুনির চ্যালেঞ্জ</string>
+    <string name="alarm_challenge_gentle">শান্ত ঘুম ভাঙানি</string>
+    <string name="alarm_repeat_daily">প্রতিদিন</string>
+    <string name="alarm_repeat_weekdays">সোম–শুক্র</string>
+    <string name="alarm_repeat_once">একবার</string>
+    <string name="alarm_saved_toast">%1$s এর জন্য অ্যালার্ম নির্ধারিত হয়েছে</string>
+    <string name="reminder_saved_toast">%1$s এর জন্য রিমাইন্ডার সেট করা হয়েছে</string>
+
+    <!-- Personal Memory -->
+    <string name="memory_title">ব্যক্তিগত মেমোরি</string>
+    <string name="memory_search">নোট ও তথ্য অনুসন্ধান করুন…</string>
+    <string name="memory_add_new">নতুন নোট</string>
+    <string name="memory_cat_all">সকল</string>
+    <string name="memory_cat_ideas">ভাবনা</string>
+    <string name="memory_cat_personal">ব্যক্তিগত</string>
+    <string name="memory_cat_work">অফিস/কাজ</string>
+    <string name="memory_cat_health">স্বাস্থ্য</string>
+    <string name="memory_cat_important">গুরুত্বপূর্ণ</string>
+    <string name="memory_pinned">পিন করা</string>
+    <string name="memory_empty">এখনও কোনো মেমোরি সংরক্ষিত নেই। আপনার চিন্তা, অভ্যাস ও তথ্য এখানে সেভ রাখুন।</string>
+
+    <!-- AI Scanner -->
+    <string name="scanner_title">এআই স্ক্যানার</string>
+    <string name="scanner_subtitle">কাগজপত্র, রসিদ ও নোট স্ক্যান করুন</string>
+    <string name="scanner_take_photo">ক্যামেরা তুলুন</string>
+    <string name="scanner_pick_photo">ছবি সিলেক্ট করুন</string>
+    <string name="scanner_ocr_result">উদ্ধৃত টেক্সট</string>
+    <string name="scanner_summarize">এআই সারাংশ</string>
+    <string name="scanner_save_memory">মেমোরিতে সংরক্ষণ</string>
+    <string name="scanner_permission_needed">নথিপত্র স্ক্যান করতে ক্যামেরা অনুমতি প্রয়োজন।</string>
+
+    <!-- Phone Control -->
+    <string name="phone_control_title">ফোন কন্ট্রোল সেন্টার</string>
+    <string name="phone_control_sub">সিস্টেম ইন্টিগ্রেশন ও হার্ডওয়্যার স্থিতি</string>
+    <string name="perm_notifications">নোটিফিকেশন অনুমতি</string>
+    <string name="perm_alarms">সঠিক অ্যালার্ম শিডিউলিং</string>
+    <string name="perm_camera">ক্যামেরা অনুমতি</string>
+    <string name="perm_audio">মাইক্রোফোন অনুমতি</string>
+    <string name="perm_granted">সক্রিয়</string>
+    <string name="perm_denied">অনুমতি দেওয়া হয়নি</string>
+    <string name="perm_open_settings">সিস্টেম সেটিংস খুলুন</string>
+    <string name="device_battery">ব্যাটারি স্তর</string>
+    <string name="device_network">নেটওয়ার্ক সংযোগ</string>
+    <string name="quick_shortcuts">দ্রুত শর্টকাট</string>
+
+    <!-- Settings -->
+    <string name="settings_title">সেটিংস</string>
+    <string name="settings_lang_title">ভাষা (Language)</string>
+    <string name="settings_theme_title">থিম মোড</string>
+    <string name="settings_theme_obsidian">অবসিডিয়ান ডার্ক (ডিফল্ট)</string>
+    <string name="settings_theme_amoled">এমোলেড ব্ল্যাক</string>
+    <string name="settings_ai_title">এআই ইঞ্জিন কনফিগারেশন</string>
+    <string name="settings_ai_model">Gemini 2.5 Flash / OpenRouter</string>
+    <string name="settings_ai_key_hint">কাস্টম এপিআই কি (ঐচ্ছিক)</string>
+    <string name="settings_privacy_title">গোপনীয়তা ও ডেটা</string>
+    <string name="settings_clear_chat">চ্যাট ইতিহাস মুছুন</string>
+    <string name="settings_clear_db">সকল লোকাল স্টোরেজ রিসেট করুন</string>
+    <string name="settings_about_title">ব্রেন হেল্পার সম্পর্কে</string>
+    <string name="settings_version">সংস্করণ ১.০.০ (Obsidian Build)</string>
+    <string name="settings_credits">Material 3 Obsidian ডিজাইন টোকেন দ্বারা নির্মিত</string>
+
+    <!-- Common -->
+    <string name="action_cancel">বাতিল</string>
+    <string name="action_save">সংরক্ষণ</string>
+    <string name="action_confirm">নিশ্চিত করুন</string>
+    <string name="action_delete">মুছুন</string>
+    <string name="notification_title">ব্রেন হেল্পার নোটিফিকেশন</string>
+    <string name="notification_channel_name">ব্রেন হেল্পার রিমাইন্ডার</string>
+    <string name="notification_channel_desc">দৈনিক সতর্কতা ও রিমাইন্ডার নোটিফিকেশন</string>
+</resources>
